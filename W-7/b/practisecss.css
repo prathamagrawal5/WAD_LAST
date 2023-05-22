@@ -1,0 +1,13 @@
+table tr {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+  }
+
+  .alert{
+    margin: 0px;
+    
+  }
+  *body{
+    
+    position: fixed;
+  }
