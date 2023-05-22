@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#form_content{
+    width: 50%;
+    margin: 5% auto;
+}
